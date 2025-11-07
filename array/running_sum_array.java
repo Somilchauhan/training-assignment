@@ -1,3 +1,4 @@
+package array;
 // Leetcode Problem 1480: Running Sum of 1d Array
 
 import java.util.Scanner;

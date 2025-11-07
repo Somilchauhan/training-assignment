@@ -1,3 +1,4 @@
+package array;
 // Problem 53 of leetcode : Maximum Subarray
 
 import java.util.Scanner;
